@@ -1,0 +1,15 @@
+{
+    "name": "softt/user-management",
+    "autoload": {
+        "psr-4": {
+            "Softt\\UserManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coderjahidul",
+            "email": "sobuz0349@gmail.com"
+        }
+    ],
+    "require": {}
+}
