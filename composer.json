@@ -2,7 +2,7 @@
     "name": "softt/user-management",
     "autoload": {
         "psr-4": {
-            "Softt\\UserManagement\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [

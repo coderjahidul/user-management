@@ -8,7 +8,7 @@ class Connection {
     private $host = 'localhost';
     private $user = 'root';
     private $password = '';
-    private $db = 'user_management';
+    private $db = 'user-management';
     protected $conn;
 
     protected function connect(){
